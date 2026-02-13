@@ -1,0 +1,5 @@
+Welcome to DevOPs
+git checkout -b feature/likitha
+git add info.txt Likki/Likki.txt erskeesi.vscodeLikki-devopsLikkiLikki.txt
+git commit -m "Add welcome/info files"
+git push -u origin feature/likitha
