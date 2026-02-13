@@ -3,3 +3,17 @@ git checkout -b feature/likitha
 git add info.txt Likki/Likki.txt erskeesi.vscodeLikki-devopsLikkiLikki.txt
 git commit -m "Add welcome/info files"
 git push -u origin feature/likitha
+
+GitHub - DevOps-JH-B86/devops-20260211
+Contribute to DevOps-JH-B86/devops-20260211 development by creating an account on GitHub.
+GitHub
+# Command Purpose
+1 git init --------------------------------------------------------Initialize git repository
+2 git remote add origin https://github.com/DevOps-JH-B86/devops-20260211.git    -------Add remote repository
+3 git checkout -b feature/puneeth_practise1 ----------------------Create and switch to new branch
+4 git add . ------------------------------------------Stage all files
+5 git commit -m "Add puneeth_practise file" ----------------Commit the changes
+6 git push -u origin feature/puneeth_practise1 -----------------------Push branch to GitHub
+7 git fetch origin main ---------------------------------------------------Fetch main branch history
+8 git rebase origin/main ----------------------------------------Rebase branch on top of main
+9 git push -f origin feature/puneeth_practise1 -----------Force push rebased branch
